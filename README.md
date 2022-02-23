@@ -1,7 +1,7 @@
 - 👋 Hi, I’m lpeydb from China.
 - 👀 I’m interested in games,guitar...
-- 🌱 I’m currently learning wirte code.
-- 💞️ I’m looking to collaborate on how to sleep fast.
+- 🌱 I’m currently learning wirte code,Arduino,ESP32.
+- 💞️ I’m looking for some interesting idea.
 - 📫 How to reach me > 2535155641@qq.com
 
 <!---
