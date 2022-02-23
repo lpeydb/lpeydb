@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lpeydb from China.
+- 👋 Hi, I’m lpeydb from China.
 - 👀 I’m interested in games,guitar...
 - 🌱 I’m currently learning wirte code.
 - 💞️ I’m looking to collaborate on how to sleep fast.
